@@ -6,3 +6,5 @@ I hope i was a snail
 第一组和第二组特殊数组，第三组开始数字是杨辉三角值。
 ##36. Valid Sudoku
 记录状态，submatrix行列映射关系,每次遍历前清理，parseInt取整。
+##229. Majority Element II
+统计数字出现次数

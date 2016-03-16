@@ -8,3 +8,5 @@ I hope i was a snail
 记录状态，submatrix行列映射关系,每次遍历前清理，parseInt取整。
 ##229. Majority Element II
 统计数字出现次数
+##155. Min Stack
+使用数组和一个数字来表示，注意this的引用、数字大小关系。

@@ -10,5 +10,5 @@ I hope i was a snail
 统计数字出现次数
 ##155. Min Stack
 使用数组和一个数字来表示，注意this的引用、数字大小关系。
-##58. Min Stack
+##58. Length of Last Word
 index位置和trim除去尾部的空格干扰。

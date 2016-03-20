@@ -12,3 +12,6 @@ I hope i was a snail
 使用数组和一个数字来表示，注意this的引用、数字大小关系。
 ##58. Length of Last Word
 index位置和trim除去尾部的空格干扰。
+##84. Largest Rectangle in Histogram
+method 1 :找出所有的subArray，O(n^2), 超时。
+methed 2 : O(n), stack中保证坐标(非数组值)递增，因而出栈依次递减，末尾补零执行计，看图帮助思考。

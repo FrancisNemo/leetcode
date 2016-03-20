@@ -15,3 +15,5 @@ index位置和trim除去尾部的空格干扰。
 ##84. Largest Rectangle in Histogram
 method 1 :找出所有的subArray，O(n^2), 超时。
 methed 2 : O(n), stack中保证坐标(非数组值)递增，因而出栈依次递减，末尾补零执行计，看图帮助思考。
+##328. Odd Even Linked List
+从even出发，依次往后找

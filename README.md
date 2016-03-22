@@ -20,3 +20,5 @@ methed 2 : O(n), stack中保证坐标(非数组值)递增，因而出栈依次�
 ##160. Intersection of Two Linked Lists
 同步起点，以短的list中head起点，同步往后找。
 同步有两种方法，先遍历一次，算出差值; 先到终点的，重新指向长链表的head，第二个到终点，指向短的链表head,减少计算，交换指针位置即可。
+##326. Submission Details
+y = logn/log3, 浮点数精度。

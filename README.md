@@ -26,3 +26,5 @@ y = logn/log3, 浮点数精度。
 保证字符合法，去除非法带来性能开销。
 ##11. Container With Most Water
 求最大体积，长度在缩小，必须用高度来弥补。
+##242. Valid Anagram
+重新排序对比或者bitmap比次数。

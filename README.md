@@ -30,3 +30,6 @@ y = logn/log3, 浮点数精度。
 重新排序对比或者bitmap比次数。
 ##224. Basic Calculators
 使用栈结构，将表达式转化成后缀表达式，遇到')' 需找'('匹配，并返回()中运算结果; 遇到'-'，变+(-).
+##175. Combine Two Tables
+数据来源于两个表很自然就想到需要用某种 JOIN。题目中说到无论 Address 表有无那个人对应记录都应该列出来，说明应该用LEFT JOIN
+http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins

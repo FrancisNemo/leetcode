@@ -33,3 +33,5 @@ y = logn/log3, 浮点数精度。
 ##175. Combine Two Tables
 数据来源于两个表很自然就想到需要用某种 JOIN。题目中说到无论 Address 表有无那个人对应记录都应该列出来，说明应该用LEFT JOIN
 http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
+## 70. Climbing Stairs
+f(n) = f(n-1)+ f(n-2), 空间换时间，用数组记录中间值，代替递归。

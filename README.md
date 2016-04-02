@@ -35,3 +35,5 @@ y = logn/log3, 浮点数精度。
 http://www.codeproject.com/Articles/33052/Visual-Representation-of-SQL-Joins
 ## 70. Climbing Stairs
 f(n) = f(n-1)+ f(n-2), 空间换时间，用数组记录中间值，代替递归。
+##130. Surrounded Regions
+找到最外围一圈中所有的'O'并加入队列中，依次取出将其变成'$'表示已访问过，最后将'O'变成'X','$'变回'O'。
